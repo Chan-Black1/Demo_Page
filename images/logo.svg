@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="315" height="42" viewBox="0 0 315 42">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.077" x2="0.459" y2="0.332" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#868686"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.159" y1="0.019" x2="0.909" y2="0.961" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6f6f6f"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.218" y1="0.207" x2="1.334" y2="1.204" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="0.159" y1="0.019" x2="0.909" y2="0.961" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_98459" data-name="Group 98459" transform="translate(-190 -72)">
+    <g id="Logo" transform="translate(199 70.5)" style="mix-blend-mode: normal;isolation: isolate">
+      <text id="The_VideoVault" data-name="The VideoVault" transform="translate(44 1.5)" fill="#fff" font-size="32" font-family="DM Sans" font-weight="700" style="mix-blend-mode: normal;isolation: isolate"><tspan x="0" y="32">The VideoVault</tspan></text>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(190 75)">
+      <path id="Path_110" data-name="Path 110" d="M184.424,120.413H167.357v.007l2.129,3.689h8.537l-6.4,11.083-8.53-14.779h-12.8l17.067,29.559,2.136-3.689-12.8-22.173h4.273l10.666,18.469Z" transform="translate(-141.757 -120.413)" fill="url(#linear-gradient)"/>
+      <path id="Path_111" data-name="Path 111" d="M240.011,120.413l21.334,36.948,2.133-3.694-19.2-33.254Z" transform="translate(-240.011 -120.413)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_112" data-name="Path 112" d="M218.642,138.878l-8.529-14.769,2.129-3.7,8.53,14.779Z" transform="translate(-190.906 -120.413)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_113" data-name="Path 113" d="M172.353,124.109l-2.129-3.689v-.008h12.8l-2.135,3.7h-8.537Z" transform="translate(-144.624 -120.413)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_114" data-name="Path 114" d="M220.059,137.687h4.267l12.8,22.173-2.136,3.689Z" transform="translate(-209.392 -133.99)" fill="url(#linear-gradient-5)"/>
+    </g>
+  </g>
+</svg>

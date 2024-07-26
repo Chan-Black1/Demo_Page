@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="285.656" height="277.947" viewBox="0 0 285.656 277.947">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.076" y1="0.033" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2b1dbf" stop-opacity="0.718"/>
+      <stop offset="0.507" stop-color="#4747f5" stop-opacity="0.694"/>
+      <stop offset="1" stop-color="#058f95" stop-opacity="0.675"/>
+    </linearGradient>
+    <filter id="Rectangle_30480" x="0" y="0" width="285.656" height="277.947" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_120842" data-name="Group 120842" transform="translate(-1273 -5660)">
+    <g transform="matrix(1, 0, 0, 1, 1273, 5660)" filter="url(#Rectangle_30480)">
+      <rect id="Rectangle_30480-2" data-name="Rectangle 30480" width="213.656" height="205.947" rx="20" transform="translate(33 30)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="apple-tv_2_" data-name="apple-tv (2)" transform="translate(1347 5762.001)">
+      <g id="Group_98451" data-name="Group 98451" transform="translate(24.934 0)">
+        <g id="Group_98450" data-name="Group 98450">
+          <path id="Path_157501" data-name="Path 157501" d="M169.082,180.173a13.191,13.191,0,0,0-9.68,5.363c-3.6,4.746-2.684,8.806-2.684,8.806s4.883.845,9.178-4.317A13.163,13.163,0,0,0,169.082,180.173Z" transform="translate(-156.614 -180.173)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_98453" data-name="Group 98453" transform="translate(0 14.821)">
+        <g id="Group_98452" data-name="Group 98452">
+          <path id="Path_157502" data-name="Path 157502" d="M137.943,234.044a13.383,13.383,0,0,1,6.666-11.677S141.2,216.2,132.538,216.2c-5.033,0-8.9,2.864-10.983,2.864-2.427,0-6.05-2.692-10.717-2.692C103.657,216.374,96,222.8,96,235.06c0,12.457,9.044,27.955,16.2,27.955,2.5,0,6.336-2.517,10.2-2.517,3.794,0,6.594,2.427,10.195,2.427,7.84,0,13.645-16.338,13.645-16.338S137.943,243.372,137.943,234.044Z" transform="translate(-96.001 -216.202)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_98455" data-name="Group 98455" transform="translate(58.743 3.713)">
+        <g id="Group_98454" data-name="Group 98454" transform="translate(0 0)">
+          <path id="Path_157503" data-name="Path 157503" d="M265.621,235.356a18.356,18.356,0,0,1-6.006,1.563c-2.427,0-4.114-1.214-4.114-4.2V211.661h9.05v-8.474H255.5V189.2H244.477v13.987H238.8v8.474h5.677v24.764c0,6.582,3.866,10.613,11.189,10.613a22.817,22.817,0,0,0,6.746-.987,49.21,49.21,0,0,0,5.43-1.975Z" transform="translate(-238.8 -189.2)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_98457" data-name="Group 98457" transform="translate(89.266 17.7)">
+        <g id="Group_98456" data-name="Group 98456">
+          <path id="Path_157504" data-name="Path 157504" d="M346.319,223.2l-11.025,34.144L324.352,223.2H313l15.879,43.112h11.93L356.685,223.2Z" transform="translate(-312.998 -223.2)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
